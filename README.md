@@ -80,25 +80,8 @@ This design enables efficient execution of instructions in parallel, with proper
 
 
 Processor schematic
-![processor_schematic1] <img width="959" alt="Processor Schematic"/>
-
-![processor_schematic2] <img width="959" alt="Processor Schematic 2"/>
-
-ALU schematic
-![ALU_schematic] <img width="673" alt="ALU Schematic"/>
 
 
-Control unit schematic
-![Control_unit1_schematic] <img width="876" alt="Control Unit Schematic"/>
-
-![Control_unit2_schematic] <img width="770" alt="Control Unit Schematic 2"/>
-
-ISA
-![ISA 0] <img width="463" alt="ISA"/>
-
-![ISA 1] <img width="464" alt="ISA 2"/>
-
----
-
+<img width="959" alt="Processor Schematic" src="" />
 
 **THANK YOU**
