@@ -76,12 +76,4 @@ This design enables efficient execution of instructions in parallel, with proper
 
 ---
 
-**Repository Structure**
-
-
-Processor schematic
-
-
-<img width="959" alt="Processor Schematic" src="" />
-
 **THANK YOU**
