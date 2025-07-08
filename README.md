@@ -1,4 +1,4 @@
-# # 16-bit RISC Pipelined Processor using Verilog HDL
+# 16-bit RISC Pipelined Processor using Verilog HDL
 
 This project implements a custom 16-bit RISC Pipelined Processor using Verilog HDL. It features a compact **Reduced Instruction Set Architecture (RISA)** and a multi-stage pipelined datapath that executes approximately **one instruction per clock cycle**, improving instruction throughput significantly.
 
@@ -67,7 +67,9 @@ This design enables efficient execution of instructions in parallel, with proper
 
 **Schematics**
 
-- **Processor Block Diagram**: `processor_schematic1`, `processor_schematic2`
+- **Processor Block Diagram**:
+- `processor_schematic1`,
+-  `processor_schematic2`
 - **ALU Diagram**: `ALU_schematic`
 - **Control Unit**: `Control_unit1_schematic`, `Control_unit2_schematic`
 - **ISA Formats**: `ISA 0`, `ISA 1`
@@ -78,19 +80,25 @@ This design enables efficient execution of instructions in parallel, with proper
 
 
 Processor schematic
-![processor_schematic1]
-![processor_schematic2]
+![processor_schematic1] <img width="959" alt="Processor Schematic"/>
+
+![processor_schematic2] <img width="959" alt="Processor Schematic 2"/>
 
 ALU schematic
-![ALU_schematic]
+![ALU_schematic] <img width="673" alt="ALU Schematic"/>
+
+
 Control unit schematic
-![Control_unit1_schematic]
-![Control_unit2_schematic]
+![Control_unit1_schematic] <img width="876" alt="Control Unit Schematic"/>
+
+![Control_unit2_schematic] <img width="770" alt="Control Unit Schematic 2"/>
 
 ISA
-![ISA 0]
-![ISA 1]
+![ISA 0] <img width="463" alt="ISA"/>
 
+![ISA 1] <img width="464" alt="ISA 2"/>
+
+---
 
 
 **THANK YOU**
